@@ -1,2 +1,2 @@
 # test_may15
-test repo
+test repo for git commands stuff
